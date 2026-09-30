@@ -1,0 +1,6 @@
+{
+  "name": "PakZeroWaste Kitchen",
+  "description": "Offline smart kitchen & recipe companion with pantry ingredient matcher, zero-food-waste optimizer, and 30+ authentic Pakistani recipes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
